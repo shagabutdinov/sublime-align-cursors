@@ -1,0 +1,6 @@
+[
+  {
+    "keys": ["ctrl+u", "ctrl+q"],
+    "command": "align_cursors"
+  }
+]
