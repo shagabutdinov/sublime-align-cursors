@@ -5,7 +5,7 @@ Align multicursors at one line. Useful when making tables in markdown-files.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-align-cursors/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/align_cursors.gif "Demo")
 
 
 ### Installation
@@ -44,3 +44,8 @@ Add several cursors to view. Hit keyboard shortcut to align cursors.
 | Description   | Keyboard shortcuts | Command palette     |
 |---------------|--------------------|---------------------|
 | Align cursors | ctrl+u, ctrl+q     | AlignCursors: Align |
+
+
+### Dependencies
+
+None

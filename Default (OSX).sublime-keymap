@@ -1,6 +1,9 @@
 [
   {
     "keys": ["ctrl+u", "ctrl+q"],
-    "command": "align_cursors"
+    "command": "align_cursors",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+    ]
   }
 ]
